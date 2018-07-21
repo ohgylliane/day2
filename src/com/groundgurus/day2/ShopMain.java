@@ -11,7 +11,7 @@ public class ShopMain {
                 "123ABC, 1st Street, Mandaluyong", 5, false);
         wineShop.printDetails();
         
-        System.out.println();
+       /* System.out.println();
         
         Shop cakeShop = new Shop();
         cakeShop.setName("Maria's Wine Shop");
@@ -19,5 +19,7 @@ public class ShopMain {
         cakeShop.setAddress("789XYZ, 2nd Street, Makati City");
         cakeShop.setNumberOfEmployees(10);
         cakeShop.printDetails();
-    }
+        */
+       
+}
 }

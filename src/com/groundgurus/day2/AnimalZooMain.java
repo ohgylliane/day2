@@ -1,6 +1,5 @@
 package com.groundgurus.day2;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
@@ -16,8 +15,8 @@ public class AnimalZooMain {
                                 new Dog(),
                                 new Dog(),
                                 new Dog(),
-                                new Cat(),
-                                new Cat())
+                                new Dog(),
+                                new Dog())
                 );
         manilaZoo.walkAllAnimals();
     }
